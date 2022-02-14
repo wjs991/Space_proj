@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aura2_Core", "Aura2_Core.csproj", "{675cd640-2abf-40e4-9e49-bb6ffd956b8f}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{5e4b842a-2f7a-7309-810d-c9b9ba75c6d1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirenix.OdinInspector.CompatibilityLayer", "Sirenix.OdinInspector.CompatibilityLayer.csproj", "{caf24bdb-651e-bd3d-158e-e62525d640ff}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmplifyShaderEditor", "AmplifyShaderEditor.csproj", "{0bf475c0-bead-c50d-8e8f-ed48a62db6cf}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aura2_Editor", "Aura2_Editor.csproj", "{01f1ca6e-3743-515e-a4ee-cdb95445acc8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{47270ca4-1a62-2f78-fba8-d18099c81be5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sirenix.OdinInspector.CompatibilityLayer.Editor", "Sirenix.OdinInspector.CompatibilityLayer.Editor.csproj", "{19e16e0d-faf5-b897-1311-2124bff8b4ee}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{675cd640-2abf-40e4-9e49-bb6ffd956b8f}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{675cd640-2abf-40e4-9e49-bb6ffd956b8f}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{675cd640-2abf-40e4-9e49-bb6ffd956b8f}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{675cd640-2abf-40e4-9e49-bb6ffd956b8f}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5e4b842a-2f7a-7309-810d-c9b9ba75c6d1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5e4b842a-2f7a-7309-810d-c9b9ba75c6d1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5e4b842a-2f7a-7309-810d-c9b9ba75c6d1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5e4b842a-2f7a-7309-810d-c9b9ba75c6d1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{caf24bdb-651e-bd3d-158e-e62525d640ff}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{caf24bdb-651e-bd3d-158e-e62525d640ff}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{caf24bdb-651e-bd3d-158e-e62525d640ff}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{caf24bdb-651e-bd3d-158e-e62525d640ff}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0bf475c0-bead-c50d-8e8f-ed48a62db6cf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0bf475c0-bead-c50d-8e8f-ed48a62db6cf}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0bf475c0-bead-c50d-8e8f-ed48a62db6cf}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0bf475c0-bead-c50d-8e8f-ed48a62db6cf}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01f1ca6e-3743-515e-a4ee-cdb95445acc8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01f1ca6e-3743-515e-a4ee-cdb95445acc8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01f1ca6e-3743-515e-a4ee-cdb95445acc8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01f1ca6e-3743-515e-a4ee-cdb95445acc8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47270ca4-1a62-2f78-fba8-d18099c81be5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47270ca4-1a62-2f78-fba8-d18099c81be5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47270ca4-1a62-2f78-fba8-d18099c81be5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47270ca4-1a62-2f78-fba8-d18099c81be5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19e16e0d-faf5-b897-1311-2124bff8b4ee}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19e16e0d-faf5-b897-1311-2124bff8b4ee}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19e16e0d-faf5-b897-1311-2124bff8b4ee}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19e16e0d-faf5-b897-1311-2124bff8b4ee}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
